@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARRAY>
+    <OBJECT>
+        <dp_id>15</dp_id>
+        <dp_name>E</dp_name>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>11</dp_id>
+        <dp_name>IP</dp_name>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>10</dp_id>
+        <dp_name>В картонной коробке (штук)</dp_name>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>1</dp_id>
+        <dp_name>В коробке (штук)</dp_name>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>14</dp_id>
+        <dp_name>Ватт (W)</dp_name>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>2</dp_id>
+        <dp_name>Вес коробки (kg)</dp_name>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>12</dp_id>
+        <dp_name>Вольт (V)</dp_name>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>5</dp_id>
+        <dp_name>Высота (mm)</dp_name>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>4</dp_id>
+        <dp_name>Диаметр (mm)</dp_name>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>6</dp_id>
+        <dp_name>Длина (mm)</dp_name>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>16</dp_id>
+        <dp_name>Комментарий</dp_name>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>7</dp_id>
+        <dp_name>Метариал</dp_name>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>3</dp_id>
+        <dp_name>Объем коробки (m3)</dp_name>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>17</dp_id>
+        <dp_name>Старый код</dp_name>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>9</dp_id>
+        <dp_name>Управление</dp_name>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>8</dp_id>
+        <dp_name>Цвет</dp_name>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>13</dp_id>
+        <dp_name>Частота (Hz)</dp_name>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+</ARRAY>

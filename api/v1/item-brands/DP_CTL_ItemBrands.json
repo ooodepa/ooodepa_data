@@ -1,0 +1,72 @@
+[
+  {
+    "dp_id": 1,
+    "dp_name": "DE-PA Electric",
+    "dp_photoUrl": "https://raw.githubusercontent.com/ooodepa/assets/main/item-brands/de-pa-electric.png",
+    "dp_urlSegment": "de-pa-electric",
+    "dp_sortingIndex": 10,
+    "dp_seoKeywords": "electric удлинители светильники",
+    "dp_seoDescription": "Продукция DE-PA Electric",
+    "dp_isHidden": false
+  },
+  {
+    "dp_id": 2,
+    "dp_name": "MONO Electric",
+    "dp_photoUrl": "https://raw.githubusercontent.com/ooodepa/assets/main/item-brands/mono-electric.png",
+    "dp_urlSegment": "mono-electric",
+    "dp_sortingIndex": 20,
+    "dp_seoKeywords": "electric розетки",
+    "dp_seoDescription": "Продукция MONO Electric",
+    "dp_isHidden": false
+  },
+  {
+    "dp_id": 4,
+    "dp_name": "MEGA",
+    "dp_photoUrl": "https://raw.githubusercontent.com/ooodepa/assets/main/item-brands/mega.png",
+    "dp_urlSegment": "mega",
+    "dp_sortingIndex": 30,
+    "dp_seoKeywords": "",
+    "dp_seoDescription": "mega",
+    "dp_isHidden": false
+  },
+  {
+    "dp_id": 5,
+    "dp_name": "Haskil plastik",
+    "dp_photoUrl": "https://raw.githubusercontent.com/ooodepa/assets/main/item-brands/haskil-plastik.jpg",
+    "dp_urlSegment": "haskil-plastik",
+    "dp_sortingIndex": 50,
+    "dp_seoKeywords": "",
+    "dp_seoDescription": "Haskil plastik",
+    "dp_isHidden": false
+  },
+  {
+    "dp_id": 6,
+    "dp_name": "Pronil",
+    "dp_photoUrl": "https://raw.githubusercontent.com/ooodepa/assets/main/item-brands/pronil.png",
+    "dp_urlSegment": "pronil",
+    "dp_sortingIndex": 60,
+    "dp_seoKeywords": "",
+    "dp_seoDescription": "Pronil",
+    "dp_isHidden": false
+  },
+  {
+    "dp_id": 3,
+    "dp_name": "Листы EVA, EPDM, полиэтилена",
+    "dp_photoUrl": "https://raw.githubusercontent.com/ooodepa/assets/main/items/eva/eva-sheets.jpg",
+    "dp_urlSegment": "eva",
+    "dp_sortingIndex": 61,
+    "dp_seoKeywords": "полиэтилен",
+    "dp_seoDescription": "Листы EVA, листы EPDM, листы полиэтилена",
+    "dp_isHidden": false
+  },
+  {
+    "dp_id": 7,
+    "dp_name": "FAR Electric",
+    "dp_photoUrl": "https://ooodepa.github.io/assets/item-brands/far.png",
+    "dp_urlSegment": "far-electric",
+    "dp_sortingIndex": 70,
+    "dp_seoKeywords": "",
+    "dp_seoDescription": "FAR Electric",
+    "dp_isHidden": false
+  }
+]

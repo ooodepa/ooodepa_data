@@ -1,0 +1,87 @@
+[
+  {
+    "dp_id": 15,
+    "dp_name": "E",
+    "dp_isHidden": false
+  },
+  {
+    "dp_id": 11,
+    "dp_name": "IP",
+    "dp_isHidden": false
+  },
+  {
+    "dp_id": 10,
+    "dp_name": "В картонной коробке (штук)",
+    "dp_isHidden": false
+  },
+  {
+    "dp_id": 1,
+    "dp_name": "В коробке (штук)",
+    "dp_isHidden": false
+  },
+  {
+    "dp_id": 14,
+    "dp_name": "Ватт (W)",
+    "dp_isHidden": false
+  },
+  {
+    "dp_id": 2,
+    "dp_name": "Вес коробки (kg)",
+    "dp_isHidden": false
+  },
+  {
+    "dp_id": 12,
+    "dp_name": "Вольт (V)",
+    "dp_isHidden": false
+  },
+  {
+    "dp_id": 5,
+    "dp_name": "Высота (mm)",
+    "dp_isHidden": false
+  },
+  {
+    "dp_id": 4,
+    "dp_name": "Диаметр (mm)",
+    "dp_isHidden": false
+  },
+  {
+    "dp_id": 6,
+    "dp_name": "Длина (mm)",
+    "dp_isHidden": false
+  },
+  {
+    "dp_id": 16,
+    "dp_name": "Комментарий",
+    "dp_isHidden": false
+  },
+  {
+    "dp_id": 7,
+    "dp_name": "Метариал",
+    "dp_isHidden": false
+  },
+  {
+    "dp_id": 3,
+    "dp_name": "Объем коробки (m3)",
+    "dp_isHidden": false
+  },
+  {
+    "dp_id": 17,
+    "dp_name": "Старый код",
+    "dp_isHidden": false
+  },
+  {
+    "dp_id": 9,
+    "dp_name": "Управление",
+    "dp_isHidden": false
+  },
+  {
+    "dp_id": 8,
+    "dp_name": "Цвет",
+    "dp_isHidden": false
+  },
+  {
+    "dp_id": 13,
+    "dp_name": "Частота (Hz)",
+    "dp_isHidden": false
+  }
+]

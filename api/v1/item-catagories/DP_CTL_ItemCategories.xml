@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARRAY>
+    <OBJECT>
+        <dp_id>1</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Аксессуары</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/accessories/11202.png</dp_photoUrl>
+        <dp_urlSegment>dp-accessories</dp_urlSegment>
+        <dp_sortingIndex>10100</dp_sortingIndex>
+        <dp_seoKeywords>аксессуары</dp_seoKeywords>
+        <dp_seoDescription>Продукция DE-PA Electric. Аксессуары</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>2</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Колодки и удлинители английской серии</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/british-system-series/41400.jpg</dp_photoUrl>
+        <dp_urlSegment>dp-british-system-series</dp_urlSegment>
+        <dp_sortingIndex>10003</dp_sortingIndex>
+        <dp_seoKeywords>удлинители</dp_seoKeywords>
+        <dp_seoDescription>Продукция DE-PA Electric. Английская серия</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>3</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Кабельные каналы</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/cable-trunking/05001212.png</dp_photoUrl>
+        <dp_urlSegment>dp-cable-trunking</dp_urlSegment>
+        <dp_sortingIndex>10401</dp_sortingIndex>
+        <dp_seoKeywords>кабельные каналы</dp_seoKeywords>
+        <dp_seoDescription>Продукция DE-PA Electric. Кабельные каналы</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>4</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Коробки под автомать</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/fuse-boxes/91036-2.png</dp_photoUrl>
+        <dp_urlSegment>dp-fuse-boxes</dp_urlSegment>
+        <dp_sortingIndex>10200</dp_sortingIndex>
+        <dp_seoKeywords>автомать</dp_seoKeywords>
+        <dp_seoDescription>Продукция DE-PA Electric. Коробки под автомать</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>5</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Разветлители. Тройники</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/group-socket-and-plug/10009.png</dp_photoUrl>
+        <dp_urlSegment>dp-group-socket-and-plug</dp_urlSegment>
+        <dp_sortingIndex>10101</dp_sortingIndex>
+        <dp_seoKeywords>разветвлители тройники</dp_seoKeywords>
+        <dp_seoDescription>Продукция DE-PA Electric. Разветлители. Тройники</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>6</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>IP44 вагозащищенных накладных изделий</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/ip44-moisture-proof-series/81101.png</dp_photoUrl>
+        <dp_urlSegment>dp-ip44-moisture-proof-series</dp_urlSegment>
+        <dp_sortingIndex>10102</dp_sortingIndex>
+        <dp_seoKeywords>влагозащищенные</dp_seoKeywords>
+        <dp_seoDescription>Продукция DE-PA Electric. IP44 вагозащищенных накладных изделий</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>7</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Колодки и удлинители серии "Жемчужина" с заземлением</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/pearl-series/61100.png</dp_photoUrl>
+        <dp_urlSegment>dp-pearl-series</dp_urlSegment>
+        <dp_sortingIndex>10001</dp_sortingIndex>
+        <dp_seoKeywords>удлинители колодки</dp_seoKeywords>
+        <dp_seoDescription>Продукция DE-PA Electric. Серия Жемчужина</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>8</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Потолочные светильники</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/plastic-lighting-fixtures/95002.png</dp_photoUrl>
+        <dp_urlSegment>dp-plastic-lighting-fixtures</dp_urlSegment>
+        <dp_sortingIndex>10300</dp_sortingIndex>
+        <dp_seoKeywords>светилиники</dp_seoKeywords>
+        <dp_seoDescription>Продукция DE-PA Electric. Потолочные светильники</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>9</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Светильники серии Aplik</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/aplik/95017-5.jpg</dp_photoUrl>
+        <dp_urlSegment>dp-alpik</dp_urlSegment>
+        <dp_sortingIndex>10310</dp_sortingIndex>
+        <dp_seoKeywords>светильники</dp_seoKeywords>
+        <dp_seoDescription>Продукция DE-PA Electric. Алпик (потолочные светильники)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>10</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Светильники серии Glop</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/glop/95015-1.jpg</dp_photoUrl>
+        <dp_urlSegment>dp-glop</dp_urlSegment>
+        <dp_sortingIndex>10312</dp_sortingIndex>
+        <dp_seoKeywords>светильники</dp_seoKeywords>
+        <dp_seoDescription>Продукция DE-PA Electric. Глоп (потолочные светильники)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>11</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Светильники серии Luna</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/luna/95016-5.jpg</dp_photoUrl>
+        <dp_urlSegment>dp-luna</dp_urlSegment>
+        <dp_sortingIndex>10311</dp_sortingIndex>
+        <dp_seoKeywords>светильники</dp_seoKeywords>
+        <dp_seoDescription>Продукция DE-PA Electric. Луна (потолочные светильники)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>12</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Светильники серии Maxi Luna</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/plastic-lighting-fixtures/95008.png</dp_photoUrl>
+        <dp_urlSegment>dp-maxi-luna</dp_urlSegment>
+        <dp_sortingIndex>10313</dp_sortingIndex>
+        <dp_seoKeywords>светильники</dp_seoKeywords>
+        <dp_seoDescription>Продукция DE-PA Electric. Махи луна (потолочные светильники)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>13</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Светильники с решеткой</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/plastic-lighting-fixtures/95031-1.png</dp_photoUrl>
+        <dp_urlSegment>dp-mini-lighting-figures-with-cage</dp_urlSegment>
+        <dp_sortingIndex>10301</dp_sortingIndex>
+        <dp_seoKeywords>светильники</dp_seoKeywords>
+        <dp_seoDescription>Продукция DE-PA Electric. Светильники с решеткой (потолочные светильники)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>14</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Квадратные светильники</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/plastic-lighting-fixtures/95009.png</dp_photoUrl>
+        <dp_urlSegment>dp-square-plastic</dp_urlSegment>
+        <dp_sortingIndex>10302</dp_sortingIndex>
+        <dp_seoKeywords>светильники</dp_seoKeywords>
+        <dp_seoDescription>Продукция DE-PA Electric. Квадрат (потолочные светильники)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>15</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Светильники серии Tombix</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/tombix/95032-1.jpg</dp_photoUrl>
+        <dp_urlSegment>dp-square-tombix</dp_urlSegment>
+        <dp_sortingIndex>10314</dp_sortingIndex>
+        <dp_seoKeywords>светильники</dp_seoKeywords>
+        <dp_seoDescription>Продукция DE-PA Electric. Томбикс (потолочные светильники)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>16</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Влагозащищеные потолочные светильники</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/waterproof/95021-2.jpg</dp_photoUrl>
+        <dp_urlSegment>dp-waterproof</dp_urlSegment>
+        <dp_sortingIndex>10302</dp_sortingIndex>
+        <dp_seoKeywords>светильники влагозащищенные</dp_seoKeywords>
+        <dp_seoDescription>Продукция DE-PA Electric. Влагозащищеные потолочные светильники</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>17</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Каучуковая серия</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/rubber-series/338027.png</dp_photoUrl>
+        <dp_urlSegment>dp-rubber-series</dp_urlSegment>
+        <dp_sortingIndex>10400</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Продукция DE-PA Electric. Резиновая серия</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>18</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Колодки и удлинители серии "Звезда" с заземлением</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/star-series/961100.png</dp_photoUrl>
+        <dp_urlSegment>dp-star-series-earthed</dp_urlSegment>
+        <dp_sortingIndex>10000</dp_sortingIndex>
+        <dp_seoKeywords>колодки удлинители с зеземлением</dp_seoKeywords>
+        <dp_seoDescription>Продукция DE-PA Electric. Серия Звезда. С заземлением</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>19</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Серия розеток накладных с заземлением</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/surfase-mounted-socket-series/81301.png</dp_photoUrl>
+        <dp_urlSegment>dp-surfase-mounted-socket-series</dp_urlSegment>
+        <dp_sortingIndex>10103</dp_sortingIndex>
+        <dp_seoKeywords>розетки</dp_seoKeywords>
+        <dp_seoDescription>Продукция DE-PA Electric. Серия розеток накладных с заземлением</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>20</dp_id>
+        <dp_itemBrandId>2</dp_itemBrandId>
+        <dp_name>Eco</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mono-electric/eco/101-010201-102.png</dp_photoUrl>
+        <dp_urlSegment>mono-eco</dp_urlSegment>
+        <dp_sortingIndex>10000</dp_sortingIndex>
+        <dp_seoKeywords>розетки</dp_seoKeywords>
+        <dp_seoDescription>Продукция MONO Electric. ECO</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>21</dp_id>
+        <dp_itemBrandId>2</dp_itemBrandId>
+        <dp_name>Despina</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mono-electric/despina/102-190021-118.jpg</dp_photoUrl>
+        <dp_urlSegment>mono-despina</dp_urlSegment>
+        <dp_sortingIndex>10000</dp_sortingIndex>
+        <dp_seoKeywords>розетки</dp_seoKeywords>
+        <dp_seoDescription>Продукция MONO Electric. DESPINA</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>22</dp_id>
+        <dp_itemBrandId>2</dp_itemBrandId>
+        <dp_name>Monte</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mono-electric/monte/105-010207-118.jpg</dp_photoUrl>
+        <dp_urlSegment>mono-monte</dp_urlSegment>
+        <dp_sortingIndex>10000</dp_sortingIndex>
+        <dp_seoKeywords>розетки</dp_seoKeywords>
+        <dp_seoDescription>Продукция MONO Electric. Monte</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>23</dp_id>
+        <dp_itemBrandId>3</dp_itemBrandId>
+        <dp_name>Листы EVA, EPDM, полиэтилена</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/eva/eva-sheets.jpg</dp_photoUrl>
+        <dp_urlSegment>eva-eva</dp_urlSegment>
+        <dp_sortingIndex>10000</dp_sortingIndex>
+        <dp_seoKeywords>EVA EPDM полиэтилен</dp_seoKeywords>
+        <dp_seoDescription>Листы EVA, листы EPDM, листы полиэтилена</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>24</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Колодки и удлинители серии "Звезда" без заземления</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/star-series/961100.png</dp_photoUrl>
+        <dp_urlSegment>dp-star-series</dp_urlSegment>
+        <dp_sortingIndex>10000</dp_sortingIndex>
+        <dp_seoKeywords>колодки удлинители без зеземлением</dp_seoKeywords>
+        <dp_seoDescription>Продукция DE-PA Electric. Серия Звезда. Без заземления</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>25</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Колодки и удлинители французкой серии с UPS</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/star-series/961100.png</dp_photoUrl>
+        <dp_urlSegment>dp-french-system-series</dp_urlSegment>
+        <dp_sortingIndex>10000</dp_sortingIndex>
+        <dp_seoKeywords>колодки удлинители UPS</dp_seoKeywords>
+        <dp_seoDescription>Продукция DE-PA Electric. Серия Звезда. UPS</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>26</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Колодки и удлинители серии "Жемчужина" без заземления</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/pearl-series/61100.png</dp_photoUrl>
+        <dp_urlSegment>dp-pearl-series-0</dp_urlSegment>
+        <dp_sortingIndex>10001</dp_sortingIndex>
+        <dp_seoKeywords>удлинители колодки</dp_seoKeywords>
+        <dp_seoDescription>Продукция DE-PA Electric. Серия Жемчужина. Без заземления</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>27</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Колодки и удлинители серии "Жемчужина" с UPS</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/pearl-series/61100.png</dp_photoUrl>
+        <dp_urlSegment>dp-pearl-series-ups</dp_urlSegment>
+        <dp_sortingIndex>10001</dp_sortingIndex>
+        <dp_seoKeywords>удлинители колодки</dp_seoKeywords>
+        <dp_seoDescription>Продукция DE-PA Electric. Серия Жемчужина. С заземления UPS</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>28</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Truva" (MEGA)</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/mega/truva/MG-Z02/MG-Z02(1).webp</dp_photoUrl>
+        <dp_urlSegment>mg-truva-series</dp_urlSegment>
+        <dp_sortingIndex>1</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Truva" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>29</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Nil" (MEGA)</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mega/nil/MG-ELV01.png</dp_photoUrl>
+        <dp_urlSegment>mg-nil-series</dp_urlSegment>
+        <dp_sortingIndex>2</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Nil" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>30</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Ege" (MEGA)</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/mega/ege/MG-PL10/MG-PL10(1).webp</dp_photoUrl>
+        <dp_urlSegment>mg-ege-series</dp_urlSegment>
+        <dp_sortingIndex>3</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Ege" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>31</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Life" (MEGA)</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/mega/life/MG-TK09/MG-TK09(1).webp</dp_photoUrl>
+        <dp_urlSegment>mg-life-series</dp_urlSegment>
+        <dp_sortingIndex>4</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Life" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>32</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Snow" (MEGA)</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/mega/show/MG-SH01/MG-SH01(1).webp</dp_photoUrl>
+        <dp_urlSegment>mg-snow-series</dp_urlSegment>
+        <dp_sortingIndex>5</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Snow" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>33</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Mega" (MEGA)</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/mega/mega/MG-BMK016/MG-BMK016(1).webp</dp_photoUrl>
+        <dp_urlSegment>mg-mega-series</dp_urlSegment>
+        <dp_sortingIndex>6</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Mega" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>34</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Efes" (MEGA)</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mega/efes/MG-ASL100.png</dp_photoUrl>
+        <dp_urlSegment>mg-efes-series</dp_urlSegment>
+        <dp_sortingIndex>7</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Efes" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>35</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Aqua" (MEGA)</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mega/aqua/MG-AKD100.png</dp_photoUrl>
+        <dp_urlSegment>mg-aqua-series</dp_urlSegment>
+        <dp_sortingIndex>8</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Aqua" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>36</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "City" (MEGA)</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/mega/city/MG-ZRV100/MG-ZRV100(1).webp</dp_photoUrl>
+        <dp_urlSegment>mg-city-series</dp_urlSegment>
+        <dp_sortingIndex>9</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "City" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>37</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Smart" (MEGA)</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mega/smart/MG-BR100.png</dp_photoUrl>
+        <dp_urlSegment>mg-smart-series</dp_urlSegment>
+        <dp_sortingIndex>10</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Smart" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>38</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Mercan" (MEGA)</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/mega/mercan/MG-SER114/MG-SER114(1).webp</dp_photoUrl>
+        <dp_urlSegment>mg-mercan-series</dp_urlSegment>
+        <dp_sortingIndex>11</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Mercan" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>40</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Ocean" (MEGA)</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mega/ocean/MG-RS114.png</dp_photoUrl>
+        <dp_urlSegment>mg-ocean-series</dp_urlSegment>
+        <dp_sortingIndex>12</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Ocean" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>41</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Didim" (MEGA)</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/mega/didim/MG-CM103/MG-CM103(1).webp</dp_photoUrl>
+        <dp_urlSegment>mg-didim-series</dp_urlSegment>
+        <dp_sortingIndex>13</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Didim" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>42</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Kale" (MEGA)</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mega/kale/MG-ASF101.png</dp_photoUrl>
+        <dp_urlSegment>mg-kale-series</dp_urlSegment>
+        <dp_sortingIndex>14</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Kale" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>43</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Cosmos" (MEGA)</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mega/kale/MG-ASF101.png</dp_photoUrl>
+        <dp_urlSegment>mg-cosmos-series</dp_urlSegment>
+        <dp_sortingIndex>15</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Cosmos" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>44</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Yakut" (MEGA)</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mega/yakut/MG-YKT01.png</dp_photoUrl>
+        <dp_urlSegment>mg-yakut-series</dp_urlSegment>
+        <dp_sortingIndex>16</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Yakut" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>45</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Sun" (MEGA)</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/mega/sun/MG-SUN01/MG-SUN01(1).webp</dp_photoUrl>
+        <dp_urlSegment>mg-sun-series</dp_urlSegment>
+        <dp_sortingIndex>17</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Sun" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>46</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Zumrut" (MEGA)</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mega/zumrut/MG-ZM100.png</dp_photoUrl>
+        <dp_urlSegment>mg-zumrut-series</dp_urlSegment>
+        <dp_sortingIndex>18</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Zumrut" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>47</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Mira" (MEGA)</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mega/mira/MG-ASM100.png</dp_photoUrl>
+        <dp_urlSegment>mg-mira-series</dp_urlSegment>
+        <dp_sortingIndex>19</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Mira" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>48</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Platin" (MEGA)</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mega/platin/MG-PLN501.png</dp_photoUrl>
+        <dp_urlSegment>mg-platin-series</dp_urlSegment>
+        <dp_sortingIndex>20</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Platin" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>49</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Uranus" (MEGA)</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mega/uranus/MG-URN01.png</dp_photoUrl>
+        <dp_urlSegment>mg-uranus-series</dp_urlSegment>
+        <dp_sortingIndex>21</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Uranus" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>50</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Milenium" (MEGA)</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mega/milenium/MG-EL022.png</dp_photoUrl>
+        <dp_urlSegment>mg-milenium-series</dp_urlSegment>
+        <dp_sortingIndex>22</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Milenium" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>51</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Asos" (MEGA)</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mega/asos/MG-OMG100.png</dp_photoUrl>
+        <dp_urlSegment>mg-asos-series</dp_urlSegment>
+        <dp_sortingIndex>23</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Asos" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>52</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Line" (MEGA)</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mega/line/MG-SR228.png</dp_photoUrl>
+        <dp_urlSegment>mg-line-series</dp_urlSegment>
+        <dp_sortingIndex>24</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Line" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>53</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Delta" (MEGA)</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/mega/delta/MG-SRN100/MG-SRN100(1).webp</dp_photoUrl>
+        <dp_urlSegment>mg-delta-series</dp_urlSegment>
+        <dp_sortingIndex>25</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Delta" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>54</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Karya" (MEGA)</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mega/karya/MG-LA100.png</dp_photoUrl>
+        <dp_urlSegment>mg-karya-series</dp_urlSegment>
+        <dp_sortingIndex>26</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Karya" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>55</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Canak" (MEGA)</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mega/canac/MG-BK233.png</dp_photoUrl>
+        <dp_urlSegment>mg-canak-series</dp_urlSegment>
+        <dp_sortingIndex>27</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Canak" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>56</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Iris" (MEGA)</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mega/iris/MG-IRN01.png</dp_photoUrl>
+        <dp_urlSegment>mg-iris-series</dp_urlSegment>
+        <dp_sortingIndex>28</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Iris" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>57</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Mega klasik" (MEGA)</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mega/mega-klasik/MG-BK001.png</dp_photoUrl>
+        <dp_urlSegment>mg-mega-klasik-series</dp_urlSegment>
+        <dp_sortingIndex>29</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Mega klasik" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>58</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Duden klasik" (MEGA)</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mega/duden-klasik/MG-ULT200.png</dp_photoUrl>
+        <dp_urlSegment>mg-duden-klasik-series</dp_urlSegment>
+        <dp_sortingIndex>30</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Duden klasik" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>59</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Nida klasik" (MEGA)</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mega/nida-klasik/MG-AYL200.png</dp_photoUrl>
+        <dp_urlSegment>mg-nida-klasik-series</dp_urlSegment>
+        <dp_sortingIndex>31</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Nida klasik" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>60</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Краны серии "Ara musluk" (MEGA)</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mega/ara-musluk/MG-ARA01.png</dp_photoUrl>
+        <dp_urlSegment>mg-ara-musluk</dp_urlSegment>
+        <dp_sortingIndex>32</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Краны серии "Ara musluk" (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>61</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Flex</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/mega/flex/MG-FLEX.jpg</dp_photoUrl>
+        <dp_urlSegment>mg-flex</dp_urlSegment>
+        <dp_sortingIndex>33</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>MEGA Flex</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>62</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Volan</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/mega/volan/MG-VL01.png</dp_photoUrl>
+        <dp_urlSegment>mg-volan</dp_urlSegment>
+        <dp_sortingIndex>34</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>MEGA Volan</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>63</dp_id>
+        <dp_itemBrandId>5</dp_itemBrandId>
+        <dp_name>Ворс</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/haskil-plastik/pet-firca-kili-haskil-plastik.png</dp_photoUrl>
+        <dp_urlSegment>pet-firca-kili-haskil-plastik</dp_urlSegment>
+        <dp_sortingIndex>0</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Haskil plastik</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>64</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Катушки для удлинителя</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/coils-for-extension-cord/10600.jpg</dp_photoUrl>
+        <dp_urlSegment>dp-coils-for-extension-cord</dp_urlSegment>
+        <dp_sortingIndex>20000</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>DE-PA Electric. Катушки для удлинителя</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>65</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>Переносной светильник</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/de-pa-electric/portable-lamp/11140.png</dp_photoUrl>
+        <dp_urlSegment>dp-portable-lamp</dp_urlSegment>
+        <dp_sortingIndex>20001</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>DE-PA Electric. Переносной светильник</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>66</dp_id>
+        <dp_itemBrandId>6</dp_itemBrandId>
+        <dp_name>Proseal</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/pronil/proseal/proseal.webp</dp_photoUrl>
+        <dp_urlSegment>prnl-proseal</dp_urlSegment>
+        <dp_sortingIndex>0</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Proseal</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>67</dp_id>
+        <dp_itemBrandId>6</dp_itemBrandId>
+        <dp_name>Proflex</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/pronil/proflex/proflex.webp</dp_photoUrl>
+        <dp_urlSegment>prnl-proflex</dp_urlSegment>
+        <dp_sortingIndex>0</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Proflex</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>68</dp_id>
+        <dp_itemBrandId>6</dp_itemBrandId>
+        <dp_name>Bentonite</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/pronil/bentonite/bentonite.webp</dp_photoUrl>
+        <dp_urlSegment>prnl-bentonite</dp_urlSegment>
+        <dp_sortingIndex>0</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Bentonite</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>69</dp_id>
+        <dp_itemBrandId>6</dp_itemBrandId>
+        <dp_name>Acr</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/pronil/acr/acr.webp</dp_photoUrl>
+        <dp_urlSegment>prnl-acr</dp_urlSegment>
+        <dp_sortingIndex>0</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Acr</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>70</dp_id>
+        <dp_itemBrandId>7</dp_itemBrandId>
+        <dp_name>Пластиковый материал Far</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/far-electric/plastic-materials/57100110.jpg</dp_photoUrl>
+        <dp_urlSegment>far-plastic-materials</dp_urlSegment>
+        <dp_sortingIndex>22</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Far Electric. Пластиковый материал Far</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>71</dp_id>
+        <dp_itemBrandId>7</dp_itemBrandId>
+        <dp_name>Серия Гольят</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/far-electric/golyat-serisi/19310156.png</dp_photoUrl>
+        <dp_urlSegment>far-golyat-serisi</dp_urlSegment>
+        <dp_sortingIndex>5</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Far Electric. Серия Гольят</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>72</dp_id>
+        <dp_itemBrandId>7</dp_itemBrandId>
+        <dp_name>Аксессуары Far</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/far-electric/aksesuar-serisi/23200044.png</dp_photoUrl>
+        <dp_urlSegment>far-aksesuar-serisi</dp_urlSegment>
+        <dp_sortingIndex>1</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Far Electric. Акксесуары</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>73</dp_id>
+        <dp_itemBrandId>7</dp_itemBrandId>
+        <dp_name>Серия класических выключателей и розеток под штукатурку</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/far-electric/siva-ustu-ve-alti-serisi/27020068.png</dp_photoUrl>
+        <dp_urlSegment>far-siva-ustu-ve-alti-serisi</dp_urlSegment>
+        <dp_sortingIndex>7</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Far Electric. Серия поверх штукатурки и Серия класических выключателей и розеток под штукатурку</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>74</dp_id>
+        <dp_itemBrandId>7</dp_itemBrandId>
+        <dp_name>Каучуковая серия Far</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/far-electric/kaucuk-serisi/37324105.jpg</dp_photoUrl>
+        <dp_urlSegment>far-kaucuk-serisi</dp_urlSegment>
+        <dp_sortingIndex>8</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Far Eletric. Каучуковая серия</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>75</dp_id>
+        <dp_itemBrandId>7</dp_itemBrandId>
+        <dp_name>Кабельные каналы Far</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/far-electric/kablo-kanallari/58001212.png</dp_photoUrl>
+        <dp_urlSegment>far-kablo-kanallari</dp_urlSegment>
+        <dp_sortingIndex>10</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Far Electric. Кабельные каналы</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>76</dp_id>
+        <dp_itemBrandId>7</dp_itemBrandId>
+        <dp_name>Коробка с предохранителями Far</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/far-electric/sigorta-kutulari/61001036.png</dp_photoUrl>
+        <dp_urlSegment>far-sigorta-kutulari</dp_urlSegment>
+        <dp_sortingIndex>17</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Far Electric. Коробка с предохранителями</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>77</dp_id>
+        <dp_itemBrandId>7</dp_itemBrandId>
+        <dp_name>Промышленый тип Far</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/far-electric/sanaya-tipi/27151041.jpg</dp_photoUrl>
+        <dp_urlSegment>far-sanayi-tipi</dp_urlSegment>
+        <dp_sortingIndex>18</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Far Electric. Промышленый тип</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>78</dp_id>
+        <dp_itemBrandId>7</dp_itemBrandId>
+        <dp_name>Колодки и удлинители серии "Lara" без защиты для детей</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/far-electric/lara-group-socket-without-child-proof/15161102.png</dp_photoUrl>
+        <dp_urlSegment>far-lara-group-socket-without-child-proof</dp_urlSegment>
+        <dp_sortingIndex>1</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Far Electric. Колодки и удлинители серии "Lara" без защиты для детей</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>79</dp_id>
+        <dp_itemBrandId>7</dp_itemBrandId>
+        <dp_name>Колодки и удлинители без заземления</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/far-electric/group-socket-without-earthing/15030000.png</dp_photoUrl>
+        <dp_urlSegment>far-group-socket-without-earthing</dp_urlSegment>
+        <dp_sortingIndex>2</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Far Electric. Колодки и удлинители без заземления</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>80</dp_id>
+        <dp_itemBrandId>7</dp_itemBrandId>
+        <dp_name>Удлинители FAR</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/far-electric/uzatma-takimi-serisi/12001003.png</dp_photoUrl>
+        <dp_urlSegment>far-uzatma-takimi-serisi</dp_urlSegment>
+        <dp_sortingIndex>3</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Far Electric. Удлинители FAR</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>81</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Временная категория (MEGA)</dp_name>
+        <dp_photoUrl/>
+        <dp_urlSegment>mg-temp</dp_urlSegment>
+        <dp_sortingIndex>100000</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Удалить (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>82</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Кнопки слива (MEGA)</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/mega/drain-buttons/7028.jpg</dp_photoUrl>
+        <dp_urlSegment>mg-drain-buttons</dp_urlSegment>
+        <dp_sortingIndex>0</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Кнопки слива (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>83</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Крестообразный винт (MEGA)</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/mega/drain-buttons/5028.jpg</dp_photoUrl>
+        <dp_urlSegment>mg-cruciform-screw</dp_urlSegment>
+        <dp_sortingIndex>0</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Крестообразный винт (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>84</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Клеверный винт (MEGA)</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/mega/drain-buttons/5029.jpg</dp_photoUrl>
+        <dp_urlSegment>mg-clover-screw</dp_urlSegment>
+        <dp_sortingIndex>0</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Клеверный винт (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>85</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Треугольный винт (MEGA)</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/mega/drain-buttons/5030.jpg</dp_photoUrl>
+        <dp_urlSegment>mg-triangular-screw</dp_urlSegment>
+        <dp_sortingIndex>0</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Треугольный винт (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>86</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Круглый винт (MEGA)</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/mega/drain-buttons/5031.jpg</dp_photoUrl>
+        <dp_urlSegment>mg-round-screw</dp_urlSegment>
+        <dp_sortingIndex>0</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Круглый винт (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>87</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Овальный винт (MEGA)</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/mega/drain-buttons/5133.jpg</dp_photoUrl>
+        <dp_urlSegment>mg-oval-screw</dp_urlSegment>
+        <dp_sortingIndex>0</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Овальный винт (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>88</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Квадратный винт (MEGA)</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/mega/drain-buttons/5134.jpg</dp_photoUrl>
+        <dp_urlSegment>mg-square-screw</dp_urlSegment>
+        <dp_sortingIndex>0</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Квадратный винт (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>89</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Сидения для унитаза (MEGA)</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/mega/toilet-seats\duroplast-toilets-seats\3500.jpg</dp_photoUrl>
+        <dp_urlSegment>mg-toilet-seats</dp_urlSegment>
+        <dp_sortingIndex>0</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Сидения для унитаза (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>90</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Бочки для унитаза (MEGA)</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/mega/high-or-low-level-cistern-for-high-or-low-instattalion/3021.jpg</dp_photoUrl>
+        <dp_urlSegment>mg-suspended-cisterns</dp_urlSegment>
+        <dp_sortingIndex>0</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Бочки для унитаза (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>91</dp_id>
+        <dp_itemBrandId>4</dp_itemBrandId>
+        <dp_name>Душевые стойки (со шлангом) (MEGA)</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/mega/shower-sets\robot-shower-set/1832.jpg</dp_photoUrl>
+        <dp_urlSegment>mg-shower-sets</dp_urlSegment>
+        <dp_sortingIndex>0</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Душевые стойки (со шлангом) (MEGA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>92</dp_id>
+        <dp_itemBrandId>1</dp_itemBrandId>
+        <dp_name>USB (DE-PA)</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/de-pa-electric/usb/930100-USB.png</dp_photoUrl>
+        <dp_urlSegment>dp-usb</dp_urlSegment>
+        <dp_sortingIndex>0</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>USB (DE-PA)</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>94</dp_id>
+        <dp_itemBrandId>7</dp_itemBrandId>
+        <dp_name>Колодки и удлинители серии "Lara" с защитой для детей</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/far-electric/lara-group-socket-child-proof/src/15061102.png</dp_photoUrl>
+        <dp_urlSegment>far-lara-group-socket-child-proof</dp_urlSegment>
+        <dp_sortingIndex>1</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Far Electric. Колодки и удлинители серии "Lara" с защитой для детей</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>95</dp_id>
+        <dp_itemBrandId>7</dp_itemBrandId>
+        <dp_name>Колодки и удлинители серии "Lara" с USB</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/far-electric/lara-group-socket-usb/15141202.png</dp_photoUrl>
+        <dp_urlSegment>far-lara-group-socket-usb</dp_urlSegment>
+        <dp_sortingIndex>1</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Колодки и удлинители серии "Lara" с USB</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>96</dp_id>
+        <dp_itemBrandId>7</dp_itemBrandId>
+        <dp_name>Колодки и удлинители универсальной серии FAR</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/far-electric/group-socket-universal-series/src/14061100.png</dp_photoUrl>
+        <dp_urlSegment>far-group-socket-universal-series</dp_urlSegment>
+        <dp_sortingIndex>1</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Колодки и удлинители универсальной серии FAR</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>97</dp_id>
+        <dp_itemBrandId>7</dp_itemBrandId>
+        <dp_name>Светильники Far</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/far-electric/aydinlatma-armaturleri/46020051.jpg</dp_photoUrl>
+        <dp_urlSegment>far-illumination-armatures</dp_urlSegment>
+        <dp_sortingIndex>0</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Far Electric. Светильники Far</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>98</dp_id>
+        <dp_itemBrandId>7</dp_itemBrandId>
+        <dp_name>Кабельные стяжки Far</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/items/far-electric/cable-ties/57125100.jpg</dp_photoUrl>
+        <dp_urlSegment>far-cable-ties</dp_urlSegment>
+        <dp_sortingIndex>0</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Far Electric. Кабельные стяжки Far</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+</ARRAY>

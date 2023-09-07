@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ARRAY>
+    <OBJECT>
+        <dp_id>1</dp_id>
+        <dp_name>DE-PA Electric</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/item-brands/de-pa-electric.png</dp_photoUrl>
+        <dp_urlSegment>de-pa-electric</dp_urlSegment>
+        <dp_sortingIndex>10</dp_sortingIndex>
+        <dp_seoKeywords>electric удлинители светильники</dp_seoKeywords>
+        <dp_seoDescription>Продукция DE-PA Electric</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>2</dp_id>
+        <dp_name>MONO Electric</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/item-brands/mono-electric.png</dp_photoUrl>
+        <dp_urlSegment>mono-electric</dp_urlSegment>
+        <dp_sortingIndex>20</dp_sortingIndex>
+        <dp_seoKeywords>electric розетки</dp_seoKeywords>
+        <dp_seoDescription>Продукция MONO Electric</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>4</dp_id>
+        <dp_name>MEGA</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/item-brands/mega.png</dp_photoUrl>
+        <dp_urlSegment>mega</dp_urlSegment>
+        <dp_sortingIndex>30</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>mega</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>5</dp_id>
+        <dp_name>Haskil plastik</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/item-brands/haskil-plastik.jpg</dp_photoUrl>
+        <dp_urlSegment>haskil-plastik</dp_urlSegment>
+        <dp_sortingIndex>50</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Haskil plastik</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>6</dp_id>
+        <dp_name>Pronil</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/item-brands/pronil.png</dp_photoUrl>
+        <dp_urlSegment>pronil</dp_urlSegment>
+        <dp_sortingIndex>60</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>Pronil</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>3</dp_id>
+        <dp_name>Листы EVA, EPDM, полиэтилена</dp_name>
+        <dp_photoUrl>https://raw.githubusercontent.com/ooodepa/assets/main/items/eva/eva-sheets.jpg</dp_photoUrl>
+        <dp_urlSegment>eva</dp_urlSegment>
+        <dp_sortingIndex>61</dp_sortingIndex>
+        <dp_seoKeywords>полиэтилен</dp_seoKeywords>
+        <dp_seoDescription>Листы EVA, листы EPDM, листы полиэтилена</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+    <OBJECT>
+        <dp_id>7</dp_id>
+        <dp_name>FAR Electric</dp_name>
+        <dp_photoUrl>https://ooodepa.github.io/assets/item-brands/far.png</dp_photoUrl>
+        <dp_urlSegment>far-electric</dp_urlSegment>
+        <dp_sortingIndex>70</dp_sortingIndex>
+        <dp_seoKeywords/>
+        <dp_seoDescription>FAR Electric</dp_seoDescription>
+        <dp_isHidden>false</dp_isHidden>
+    </OBJECT>
+</ARRAY>
